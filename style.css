@@ -1,0 +1,57 @@
+/*.one{*/
+/*    background: red;*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    text-align: center;*/
+/*    padding: 10px;*/
+/*    margin: 5px;*/
+/*}*/
+.selected{
+border-bottom: black 5px solid;
+    padding: 0;
+}
+/*.two{*/
+/*    background: blue;*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    text-align: center;*/
+/*    padding: 10px;*/
+/*    margin: 5px;*/
+
+/*}*/
+/*.three{*/
+/*    background: green;*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    text-align: center;*/
+/*    padding: 10px;*/
+/*    margin: 5px;*/
+/*}*/
+/*.four{*/
+/*    background: purple;*/
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*    text-align: center;*/
+/*    padding: 10px;*/
+/*    margin: 5px;*/
+/*}*/
+/*!* Create two unequal columns that floats next to each other *!*/
+/*.column {*/
+/*    float: left;*/
+/*    padding: 10px;*/
+/*     !* Should be removed. Only for demonstration *!*/
+/*}*/
+.btn{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+    border-radius: 5px;
+
+
+}
+/*.row:after {*/
+/*    content: "";*/
+/*    display: table;*/
+/*    clear: both;*/
+/*}*/
